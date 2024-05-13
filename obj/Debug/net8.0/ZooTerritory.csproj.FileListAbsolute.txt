@@ -1,0 +1,14 @@
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.AssemblyInfoInputs.cache
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.AssemblyInfo.cs
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.csproj.CoreCompileInputs.cache
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\bin\Debug\net8.0\ZooTerritory.exe
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\bin\Debug\net8.0\ZooTerritory.deps.json
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\bin\Debug\net8.0\ZooTerritory.runtimeconfig.json
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\bin\Debug\net8.0\ZooTerritory.dll
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\bin\Debug\net8.0\ZooTerritory.pdb
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.dll
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\refint\ZooTerritory.dll
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.pdb
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ZooTerritory.genruntimeconfig.cache
+C:\Users\kolya\RiderProjects\ZooTerritory\ZooTerritory\obj\Debug\net8.0\ref\ZooTerritory.dll
